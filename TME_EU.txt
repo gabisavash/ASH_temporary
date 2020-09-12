@@ -1,0 +1,22 @@
+IC SURSA DEFECTA TNY277PN ---- TNY277PN---2buc
+
+Dioda smd protectie releu --- CD4148WS(0805C)--------------50buc
+i2c GPIO extension MCP23017 ---- MCP23017-E/SP-----2buc
+condenstor 10microF 0805 ---- 0805X106K100CT--------100buc
+###condenstor 1microF 0805 ---- 08055C105KAT2A-------100buc
+condensator 1000misroF 6.3V THT ---- ESK108M0JF12RRS0P1R sau  RD0J108M0811MBB -----50buc
+rezistor multipolar 4x1Kohm ---- 4D02WGJ0102T  -----50buc
+rezistor 100ohm 0805  ---- CRCW0805100RJNEA-----100
+rezistor 22Kohm 0805  ---- 0805S8J0223T5E-------100
+rezistor 3.3Kohm 0805  ---- 0805S8J0332T5E------100
+rezistor 4.7Mohm 0805  ---- 0805S8J0475T5E------100
+tranzistor npn SOT23-3 ----  MMBT3904-RFG-------100
+ne555D ---- NE555D----30buc
+rezistor de precizie 330ohm 0805 ---- ARG05DTC3300---100
+rezistor de precizie 1.58Kohm 0805 ---- ERA6AEB1581V---100
+ANALOG TO FREQUENCY converter ---- AD654JRZ--- 2 buc
+
+JUMPER rezistor 0ohm 0805 ---- CRCW08050000Z0TABC---100
+
+Regleta conexiune cablu PCB+SCREW 3.5mm 2 pini max sectiune cablu 1.5 ---  DG381-3.5-02P-14-00AH---50
+Regleta conexiune cablu PCB+SCREW 3.5mm 3 pini max sectiune cablu 1.5  --- DG381-3.5-03P-14-00AH---50
